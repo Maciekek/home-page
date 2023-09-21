@@ -15,7 +15,10 @@ const Home: NextPage = () => {
           href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap"
           rel="stylesheet"
         />
-        <meta name="description" content="Maciej's home page" />
+        <meta
+          name="description"
+          content="I am a passionate Web Developer. I am eager to learn and explore new solutions in the IT world and I am always willing to share my knowledge and to have a conversation about programming and new technologies."
+        />
       </Head>
 
       <main className={"pt-9"}>
