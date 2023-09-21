@@ -45,7 +45,9 @@ const ProfileCard = () => {
 
   return (
     <div style={{ perspective: "1000px" }}>
-      <div className={"profile relative bg-white h-96 rounded-lg"}>
+      <div
+        className={"profile relative bg-white h-96 rounded-lg max-w-[500px]"}
+      >
         <div className={"h-64 overflow-hidden rounded-t-lg"}>
           <img
             id={"user-image"}
